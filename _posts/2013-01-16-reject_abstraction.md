@@ -6,6 +6,10 @@ author-email: seholee@seho.com
 description: rejection reasons
 ---
 
+## 어플 업데이트시에 수정할수 있는 사항이 몇가지 없습니다. 검색키워드와 이번 버젼의 변경점.. 
+
+
+
 1. Private API:s 
  - private API를 호출하는 앱은 무조건 거절
 
