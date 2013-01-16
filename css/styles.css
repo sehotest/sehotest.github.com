@@ -43,7 +43,6 @@ font-family: Helvetica, sans-serif, "NanumGothic", Arial;
 h1, h2, h3, h4 ,h5, h6 {
 font-family: "NanumGothic", Helvetica, sans-serif, Arial;
 color: #323232;
-text-shadow: 1px 1px 1px white;
 }
 
 h2, h3, h4, h5, h6 {
@@ -81,7 +80,6 @@ display: inline;
 }
 #menu-list {
 font-family: Helvetica, sans-serif, Arial;
-text-shadow: 1px 1px 1px white;
 color: #323232; 
 font-size: 18px;
 margin-top: 10px;
@@ -133,7 +131,6 @@ font-family: arial;
 font-weight: bold;
 font-size: 40px;
 color: white;
-text-shadow: 0px 1px 1px #333;
 display: inline-block;
 }
 .posts .post-title {
