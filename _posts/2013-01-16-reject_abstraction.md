@@ -49,3 +49,5 @@ description: rejection reasons
 
 13. 함수 중에 애플 private api 명과 같은 이름 사용 안됨
 
+14. 회원가입 이나 로그인 기능 포함시.. Review Notes에 ID와 PW를 입력해주어야 함..(Metadata 등록시)
+
