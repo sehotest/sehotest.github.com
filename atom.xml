@@ -5,26 +5,26 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>seholee tech blog</title>
-  <link href="http://seholee.github.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://seholee.github.com/atom.xml"/>
+  <title>sehotest tech blog</title>
+  <link href="http://sehotest.github.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://sehotest.github.com/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://seholee.github.com</id>
+  <id>http://sehotest.github.com</id>
   <author>
-    <name>seholee Developer</name>
-    <email>seholee@seholee.com</email>
+    <name>sehotest Developer</name>
+    <email>sehotest@sehotest.com</email>
   </author>
 
   {% for post in site.posts %}
       {% if post.publish != false %}
       <entry>
-        <id>http://seholee.github.com{{ post.id }}</id>
-        <link type="text/html" rel="alternate" href="http://seholee.github.com{{ post.url }}"/>
+        <id>http://sehotest.github.com{{ post.id }}</id>
+        <link type="text/html" rel="alternate" href="http://sehotest.github.com{{ post.url }}"/>
         <title>{{ post.title }}</title>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <author>
           <name>{{ post.author }}</name>
-          <uri>http://seholee.github.com{{ post.url }}</uri>
+          <uri>http://sehotest.github.com{{ post.url }}</uri>
         </author>
         <content type="html">{{ post.content | xml_escape }}</content>
       </entry>
