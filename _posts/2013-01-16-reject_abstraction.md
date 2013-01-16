@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: app store rejection
+title: app store rejection abs
 author: seho lee
 author-email: seholee@seho.com 
 description: rejection reasons
