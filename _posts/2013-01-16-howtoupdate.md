@@ -34,8 +34,7 @@ description: How to Update
 <b>
 6. 버전과 추가된 상세내역을 작성</b><br />
 <p style="margin:0"><div class="imageblock center" style="text-align: center; clear: both;"><span dir="http://cfile27.uf.tistory.com/original/145600594DDF394A0ED0C1" rel="lightbox" target="_blank"><img src="http://cfile27.uf.tistory.com/image/145600594DDF394A0ED0C1" style="cursor: pointer;" alt="" height="373" width="890" /></span></div></p>
-&nbsp;<br /><span id="callbacknestalt-tabtistorycom1699084" style="width:1px; height:1px; float:right"><embed  allowscriptaccess="always"  id="bootstrapperalt-tabtistorycom1699084"  src="http://alt-tab.tistory.com/plugin/CallBack_bootstrapperSrc?nil_profile=tistory&amp;nil_type=copied_post"  width="1"  height="1"  wmode="transparent"  type="application/x-shockwave-flash"  EnableContextMenu="false"  FlashVars="&amp;callbackId=alt-tabtistorycom1699084&amp;host=http://alt-tab.tistory.com&amp;embedCodeSrc=http%3A%2F%2Falt-tab.tistory.com%2Fplugin%2FCallBack_bootstrapper%3F%26src%3Dhttp%3A%2F%2Fs1.daumcdn.net%2Fcfs.tistory%2Fv%2F0%2Fblog%2Fplugins%2FCallBack%2Fcallback%26id%3D169%26callbackId%3Dalt-tabtistorycom1699084%26destDocId%3Dcallbacknestalt-tabtistorycom1699084%26host%3Dhttp%3A%2F%2Falt-tab.tistory.com%26float%3Dleft" swLiveConnect="true"/></span>
-<br />
+&nbsp;<br />
 <b>
 7. 이제 실제 앱을 컴파일하여 업로드해 줍니다.</b><br />
 <p style="margin:0"><div class="imageblock center" style="text-align: center; clear: both;"><span dir="http://cfile24.uf.tistory.com/original/126975444DDF39B714502B" rel="lightbox" target="_blank"><img src="http://cfile24.uf.tistory.com/image/126975444DDF39B714502B" style="cursor: pointer;" alt="" height="279" width="890" /></span></div></p>
