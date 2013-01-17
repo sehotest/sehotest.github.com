@@ -6,6 +6,8 @@ author-email: seholee@seho.com
 description: app register guide
 ---
 
+
+
 앱스토어 완전정복 - 앱스토어(아이튠즈커넥트)에서 앱등록하는 방법
 					
 <span style="font-size: 11pt; ">앱개발을 막 시작한 사람들에게 도움을 주고자 이 포스팅을 작성한다.&nbsp;<br />

@@ -1,4 +1,4 @@
-# Spoqa development blog
+# development blog
 
 ## Requirements (for testing)
 
