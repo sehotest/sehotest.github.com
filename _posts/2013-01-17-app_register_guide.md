@@ -11,6 +11,7 @@ description: app register guide
 <span style="font-size: 11pt; ">앱개발을 막 시작한 사람들에게 도움을 주고자 이 포스팅을 작성한다.&nbsp;<br />
 앱 스토어에 앱을 등록하는 단계는 크게 3가지로 나눠진다.<br />
 <br /><br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><b>1. App의 Apple ID 만들기</b><br />
 - 앱도 고유의 ID를 갖게된다. 그리고 당신은 애플에게 "나 이런 앱을 만들 예정이다."라고 통보할 수 있다. 적어도 App Name을 선점하는 효과가 있다. &nbsp;<br />
@@ -29,6 +30,7 @@ description: app register guide
 <br />
 <br /><br />
 <br /><br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "></p><div style="text-align: center; ">
 <b><span style="font-size: 14pt; ">&lt;Brief&gt;</span><br />
@@ -77,6 +79,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile25.uf.tistory.com/image/116D94474DBEA6AB1D83D1"  height="221" width="500"/></span></p><p></p>
 <br />
 <p></p>
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">1) App Name</span></b></span><br />
@@ -119,6 +122,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">6. &lt;App등록테스트&gt;라는 이름 영역에는 당신이 입력한 App Name이 들어가 있을 것이다. 내가 등록하고 있는 App Name이 "App등록테스트"이니 싱기해하지 말자 ;;;</span></b></span><br />
 <br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">1) Availability Date</span></b><br />
 <br /><span style="font-size: 11pt; ">[Q] A.D는 무엇인가?</span><br />
@@ -166,6 +170,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <span style="font-size: 11pt; ">
 아직 안도의 한숨을 내쉬어서는 안된다. 이 페이지 하단의 [Save]버튼을 누르기 전까지는 이 App은 아직 Apple 쪽에 등록되지도 않는다.&nbsp;<br />
 <br />&nbsp;</span><br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; ">7.1 Metadata</span><br />
 <br /><span style="font-size: 11pt; ">1) Version Number&nbsp;</span><br />
@@ -206,7 +211,8 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <span style="font-size: 11pt; ">&lt;웹사이트: 8. &nbsp;| 지원: 6. &gt;&nbsp;</span></div>
 <br />
 <br />
-<div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
+
+7<div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; ">6) Support URL&nbsp;</span><br />
 <span style="font-size: 11pt; ">- 이건 App Store에서 App소개 페이지에서 사용자들이 클릭으로 링크를 타고 들어갈 수 있는 링크이다. 홈페이지나 블로그 등으로 연결해두면 된다. 역시 언제든지 수정이 가능하다. 반드시 링크를 입력해야 하고 위에 첨부된 이미지 중에 [OO앱이름OO 지원]이라는 버튼에 링크가 걸린다.</span><br />
 <br /><span style="font-size: 11pt; ">7) App URL&nbsp;</span><br />
@@ -223,6 +229,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile3.uf.tistory.com/image/170357494DBF9633234859"  height="389" width="500"/></span></p><p></p>
 <br />
 <br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; ">8. 다음은 Rating이다.&nbsp;</span><br />
 <span style="font-size: 11pt; ">- +4 / +9 / +12 / +17 &nbsp;다음과 같은 레벨이 있다. 여기서 체크를 잘 못 했다고 앱을 리젝시키는 경우는 없는 것 같다. 단 +17의 앱의 경우는 사용자가 다운로드나 업데이트할 때 경고창이 한번 더 뜨게 된다.</span><br />
@@ -261,6 +268,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:683px;"><img src="http://cfile24.uf.tistory.com/image/175860334DBF9B2514A88A" style="cursor: pointer;" onclick="open_img('http://cfile24.uf.tistory.com/original/175860334DBF9B2514A88A')"  height="310" width="683" /></span></p><p></p>
 <br />
+
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; ">[Q] 480x320으로 올리면 Retina Display에서 흐려보이진 않나?&nbsp;</span><br />
 <span style="font-size: 11pt; ">[A] 그렇지 않다. 애플이 알아서 리사이즈해서 절반크기로 줄여서 보여준다.&nbsp;</span><br />
@@ -276,8 +284,10 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
+
 <div style="text-align: center;">
 <span style="font-size: 18pt; "><span style="font-size: 11pt; "><span style="font-size: 18pt; ">자 이제 </span></span><font color="#193da9"><span style="font-size: 11pt; "><span style="font-size: 18pt; ">[Save]</span></span></font><span style="font-size: 11pt; "><span style="font-size: 18pt; ">버튼을 클릭하자.</span>&nbsp;</span></span></div>
+
 <div style="text-align: center;">
 <br />
 </div>
@@ -331,6 +341,7 @@ p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Lucida Grande'}
 <br />
 <br />
 <br />
+
 <div style="text-align: center;">
 <span style="font-size: 18pt; ">이제 앱의 상태는 <font color="#193da9">&lt;Waiting for Upload&gt;</font>가 된다.</span></div>
 <br />
