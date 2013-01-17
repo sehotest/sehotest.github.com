@@ -58,7 +58,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <span style="font-size: 11pt; "><span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">3. [Manage Your Applications] 클릭&nbsp;</span></b></span></span><br />
 <span style="font-size: 11pt; "><span style="font-size: 11pt; "><span style="font-size: 11pt; ">- &nbsp;이미지 참고&nbsp;</span></span></span><br />
 <br />
-<p style="margin:0"><span style="font-size: 11pt; "></span></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile4.uf.tistory.com/image/1814C3384DBE982531FF94" style="cursor: pointer;" onclick="open_img('http://cfile4.uf.tistory.com/original/1814C3384DBE982531FF94')"  height="467" width="720" /></span></p><p></p>
+<p style="margin:0"><span style="font-size: 11pt; "></span></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile4.uf.tistory.com/image/1814C3384DBE982531FF94" style="cursor: pointer;" onclick="open_img('http://cfile4.uf.tistory.com/original/1814C3384DBE982531FF94')"  height="467" width="500" /></span></p><p></p>
 <span style="font-size: 11pt; "><span style="font-size: 11pt; "><span style="font-size: 11pt; ">&nbsp;</span></span></span><br />
 <span style="font-size: 11pt; "><span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">4. &lt;Manage Your Apps&gt;에서 [Add New App] 클릭</span></b></span></span><br />
 <br />
@@ -74,7 +74,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <span style="font-size: 11pt; "><span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">5. &lt;App Information&gt;에서 아래의 3가지 항목 입력</span></b></span></span><br />
 <br />
 <p style="margin:0">/p>
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile25.uf.tistory.com/image/116D94474DBEA6AB1D83D1"  height="221" width="720"/></span></p><p></p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile25.uf.tistory.com/image/116D94474DBEA6AB1D83D1"  height="221" width="500"/></span></p><p></p>
 <br />
 <p></p>
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
@@ -158,7 +158,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile4.uf.tistory.com/image/1143FA4B4DBEACD537066C"  height="387" width="720"/></span></p></span><p></p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile4.uf.tistory.com/image/1143FA4B4DBEACD537066C"  height="387" width="500"/></span></p></span><p></p>
 <br />
 <br />
 <span style="font-size: 11pt; ">
@@ -201,7 +201,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile7.uf.tistory.com/image/142067434DBF7A963AB7AF"  height="245" width="720"/></span></p><p></p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile7.uf.tistory.com/image/142067434DBF7A963AB7AF"  height="245" width="500"/></span></p><p></p>
 <div style="text-align: center;">
 <span style="font-size: 11pt; ">&lt;웹사이트: 8. &nbsp;| 지원: 6. &gt;&nbsp;</span></div>
 <br />
@@ -220,7 +220,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile3.uf.tistory.com/image/170357494DBF9633234859"  height="389" width="720"/></span></p><p></p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile3.uf.tistory.com/image/170357494DBF9633234859"  height="389" width="500"/></span></p><p></p>
 <br />
 <br />
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
@@ -234,7 +234,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile22.uf.tistory.com/image/1436583A4DBF97821FFD00"  height="177" width="720"/></span></p><p></p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile22.uf.tistory.com/image/1436583A4DBF97821FFD00"  height="177" width="500"/></span></p><p></p>
 <br />
 <br />
 <span style="font-size: 11pt; ">10. 이제 거의 다 왔다. Upload 순서이다. &lt;iTunes Art&gt;와 &lt;스크린샷&gt;을 올리면 된다. </span><br />
@@ -294,7 +294,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <br />
 <br />
 <br />
-<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile25.uf.tistory.com/image/1106BF534DBFA03E035937"  height="355" width="720"/></span></p><p></p><p>
+<p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile25.uf.tistory.com/image/1106BF534DBFA03E035937"  height="355" width="500"/></span></p><p></p><p>
 <br />
 <br />
 <br />
@@ -303,7 +303,7 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <span style="font-size: 11pt; ">13. Encryption 여부를 확인한다.&nbsp;<br />
 <br />
 <br />
-</span></p><p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile6.uf.tistory.com/image/1427263C4DBFB65C31F2AF"  height="201" width="720"/></span></p><p></p>
+</span></p><p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile6.uf.tistory.com/image/1427263C4DBFB65C31F2AF"  height="201" width="500"/></span></p><p></p>
 &nbsp;<br />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
@@ -323,7 +323,7 @@ p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Lucida Grande'}
 <br />
 - YES인 경우에는 아래의 체크박스를 한번 더 확인해줘야 한다.<br />
 <br />
-</span></p><p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:720px;"><img src="http://cfile2.uf.tistory.com/image/1372223A4DBFB6E6331BD9"  height="227" width="720"/></span></p><p></p>
+</span></p><p style="margin:0"></p><p style="text-align: center;"><span class="imageblock" style="display:inline-block;width:500px;"><img src="http://cfile2.uf.tistory.com/image/1372223A4DBFB6E6331BD9"  height="227" width="500"/></span></p><p></p>
 <br />
 <br />
 - 단순 인증이나 바이러스 보호 목적 이외의 encryption을 사용한다면 yes를 클릭하라고 한다. 보통은 인증 수준일테니 NO를 클릭하고 [SAVE]버튼을 클릭하면 된다.&nbsp;<br />
