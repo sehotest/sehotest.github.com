@@ -38,6 +38,6 @@ an example</a> inline link.</p>
 <p><a href="http://example.net/">This link</a> has no
 title attribute.</p>
 See my [About](/about/) page for details.   
-This is [an example][id] reference-style link.
+This is [an example][id](/image/profile/seholee@seho.com.pnh) reference-style link.
 
 
