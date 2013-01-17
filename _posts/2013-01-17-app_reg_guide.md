@@ -80,7 +80,9 @@ iTunes Art나 Screenshot이 없다면, 사이즈만 맞춰서라도 업로드시
 <div class="txc-textbox" style="border-top-style: double; border-right-style: double; border-bottom-style: double; border-left-style: double; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-color: rgb(203, 203, 203); border-right-color: rgb(203, 203, 203); border-bottom-color: rgb(203, 203, 203); border-left-color: rgb(203, 203, 203); background-color: rgb(255, 255, 255); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><br />
 <span style="font-size: 11pt; "><b><span style="font-size: 11pt; ">1) App Name</span></b></span><br />
-<br /><span style="font-size: 11pt; "><span style="font-size: 11pt; ">[Q] App Name이 무엇인가?</span></span><br />
+<br />
+<span style="font-size: 11pt; "> [Q] App Name이 무엇인가? </span> <br />
+
 <span style="font-size: 11pt; "><span style="font-size: 11pt; ">[A] 앱의 정식이름이다. iTunes 스토어에서 노출되는 이름이다.&nbsp;</span></span><span style="font-size: 11pt; "><span style="font-size: 11pt; ">&nbsp;</span></span><br />
 <br /><span style="font-size: 11pt; "><span style="font-size: 11pt; ">[Q]&nbsp;</span></span><span style="font-size: 11pt; "><span style="font-size: 11pt; ">iPhone이나 iPad의 Home Screen에서 아이콘 밑에 보이는 앱이름(Bundle Display Name)인가?</span></span><br />
 <span style="font-size: 11pt; "><span style="font-size: 11pt; ">[A] 아니다. Home Screen에 노출되는 이름은 심사시 업로드하는 바이너리 파일 안에서 Bundle Display Name이라는 항목으로 심어놔야 한다.&nbsp;</span></span><br />
