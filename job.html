@@ -5,8 +5,46 @@ description: setho test
 ---
 
   <div class="post margin-auto">
-  <h2>seho lee test.</h2>
+  <div id="wrap-gradient"></div>
+	<div id="content"> 
+		<h4> <a href="/">Home</a> / Learn / Mobile / Videos </h4>
+		
+	
+	<script>
+var tag = document.createElement('script');
+tag.src = "//www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-  <p> seho lee test etsetse set asetals jldaic </p>
+player;
+function onYouTubeIframeAPIReady() {
+player = new YT.Player('ytplayer', {
+  height: '534',
+  width: '712',
+  videoId: 'xdw6GhhCwso'
+});
+}
+
+function changeVideo(key) {
+	player.cueVideoById(key);
+}
+</script>
+<div class="block sider">
+	<div id="video_player_wrapper">
+		<div id="ytplayer"></div>
+	</div>
+</div>
+
+<div class="block bg3 gallery videos">
+	<p>Click a thumbnail below to view the video in the player above.</p>
+<div class="threes" onclick="changeVideo('xdw6GhhCwso')"><img width="214" height="150" src="http://i.ytimg.com/vi/xdw6GhhCwso/0.jpg" /><h2> Selective Adjust</h2><p>Duration: 2:11</p></div><div class="threes" onclick="changeVideo('1EncyhDeA6A')"><img width="214" height="150" src="http://i.ytimg.com/vi/1EncyhDeA6A/0.jpg" /><h2> Black and White</h2><p>Duration: 1:57</p></div><div class="threes last" onclick="changeVideo('Q8Dgknd9yG0')"><img width="214" height="150" src="http://i.ytimg.com/vi/Q8Dgknd9yG0/0.jpg" /><h2> Creative Editing</h2><p>Duration: 1:40</p></div><div class="threes" onclick="changeVideo('i9_MWOaI9fg')"><img width="214" height="150" src="http://i.ytimg.com/vi/i9_MWOaI9fg/0.jpg" /><h2> Overview</h2><p>Duration: 2:26</p></div>	<div class="clear"></div>
+	<div id="bottom-paging" class="pagination">
+					<a class="prev disabled" href="#"></a>
+				<div class="numbers"><span class="current">1-4</span> of <span class="total">4</span></div>
+					<a class="next disabled" href="#"></a>
+		 
+	</div>
+
+</div>
 
 
