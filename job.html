@@ -5,275 +5,45 @@ description: setho test
 ---
 
 
-<!DOCTYPE html>
-<html lang="en-US" itemscope itemtype="http://schema.org/Product" >
-
-
-<body class="page page-id-101 page-child parent-pageid-90 page-template page-template-template-youtube-php en">
-<div id="fb-root"></div>
-<div id="wrap"> 
-	<div id="meta">
-		<div class="bg1 button" id="region">
-	<div class="bg1" id="countries">
-				<div class="col"><strong>North &amp; South America</strong>
-									<a class="region-en_US" href="?_set_locale=AMERICA-en_US">United States</a>
-									<a class="region-en_CA" href="?_set_locale=AMERICA-en_CA">Canada (English)</a>
-									<a class="region-fr_CA" href="?_set_locale=AMERICA-fr_CA">Canada (Français)</a>
-									<a class="region-es_MX" href="?_set_locale=AMERICA-es_MX">México</a>
-									<a class="region-pt_BR" href="?_set_locale=AMERICA-pt_BR">Brasil</a>
-									<a class="region-en_AMERICA" href="?_set_locale=AMERICA-en_AMERICA">Other (English)</a>
-							</div>
-							<div class="col"><strong>Europe, Middle East and Africa</strong>
-									<a class="region-de_DE" href="?_set_locale=EURO-de_DE">Deutschland</a>
-									<a class="region-fr_FR" href="?_set_locale=EURO-fr_FR">France</a>
-									<a class="region-es_ES" href="?_set_locale=EURO-es_ES">España</a>
-									<a class="region-it_IT" href="?_set_locale=EURO-it_IT">Italia</a>
-									<a class="region-en_GB" href="?_set_locale=EURO-en_GB">United Kingdom</a>
-									<a class="region-ar_SA" href="?_set_locale=EURO-ar_SA">العربية</a>
-									<a class="region-en_EURO" href="?_set_locale=EURO-en_EURO">Other (English)</a>
-							</div>
-							<div class="col"><strong>Asia Pacific</strong>
-									<a class="region-en_AU" href="?_set_locale=ASIA-en_AU">Australia</a>
-									<a class="region-en_NZ" href="?_set_locale=ASIA-en_NZ">New Zealand</a>
-									<a class="region-zh_HANS" href="?_set_locale=ASIA-zh_HANS">简体中文</a>
-									<a class="region-zh_HANT" href="?_set_locale=ASIA-zh_HANT">繁體中文</a>
-									<a class="region-ja_JP" href="?_set_locale=ASIA-ja_JP">日本語</a>
-									<a class="region-en_ASIA" href="?_set_locale=ASIA-en_ASIA">Other (English)</a>
-							</div>
-							<div class="bottom">
-			<button class="bg1 close" type="submit">Close</button>
-		</div>
-	</div>
-	<div class="current">AMERICAS</div>
-</div>
-<script>
-jQuery(document).ready(function($) {
-	$('#region').click(function(event) {
-		if ($('#countries:visible').length == 0) {
-			$('#countries').slideDown('fast');
-			$('#region').addClass('open');
-
-			$(this).siblings('.button').find('.close').each(function(i, el) {
-				$(el).triggerHandler('click');
-			});
-		}
-		event.stopPropagation();
-	});
-	$('#region .close').click(function() {
-		$('#region').removeClass('open');
-		$('#countries').hide();
-		return false;
-	});
-
-	$('html').click(function() {
-		if ($('#region').hasClass('open')) {
-			$('#region .close').triggerHandler('click');
-		}
-	});
-});
-</script>
-<script>
-jQuery(document).ready(function($) {
-	$('#newsletter').click(function(event) {
-		if ($('#enews:visible').length == 0) {
-			$('#enews').slideDown('fast');
-			$('#newsletter').addClass('open');
-			$('#enews-fname').focus();
-
-			$(this).siblings('.button').find('.close').each(function(i, el) {
-				$(el).triggerHandler('click');
-			});
-
-		}
-		event.stopPropagation();
-	});
-	$('html').click(function() {
-		if ($('#newsletter').hasClass('open')) {
-			$('#enews div.submit .cancel').triggerHandler('click');
-		}
-	});
-	var clearErrors = function() {
-		$('#enews .field-error').remove();
-		$('#enews .error').removeClass('error');
-	}
-	$('#enews div.submit .cancel,#newsletter .close').click(function(event) {
-		$('#enews').css('paddingLeft', 10);
-		clearErrors();
-		$('#enews')[0].reset();
-		$('#enews').hide();
-		$('#enews').removeClass('done');
-		$('#newsletter').removeClass('open');
-		return false;
-	});
-	$('#enews').submit(function(event) {
-		$('#enews .loading').show();
-		$.post($(this).attr('action'), $(this).serialize(), function(response) {
-			$('#enews .loading').hide();
-			clearErrors();
-			if (response.success) {
-				$('#enews').addClass('done');
-				$('#enews')[0].reset();
-			}
-			else {
-				var field = false;
-				for (var e in response.errors) {
-					if ($('#enews :input[name="enews[' + e + ']"]').length) {
-						field = $('#enews :input[name="enews[' + e + ']"]');
-					}
-					else {
-						field = $('#enews .input input[type=checkbox]:first');
-					}
-					field.addClass('error');
-					field.after('<div class="field-error ' + e + '">' + response.errors[e].join('<br />') + '</errors>');
-					$('.field-error.' + e).css('opacity', 0);
-					$('.field-error.' + e).animate({opacity: 1}, 200);
-				}
-				if (field) {
-					$('#enews .error:first').focus();
-				}
-			}
-		}, 'json');
-		event.preventDefault();
-	});
-
-});
-
-</script>
-</div>
-		<div class="button" id="share">SHARE
-	<div id="share-buttons">
-				<div class="site twitter"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
-		<div class="bottom"><button class="close" type="submit">Close</button></div>
-	</div>
-</div>
-<div id="gplus"><g:plusone size="medium" href="http://www.snapseed.com/"></g:plusone></div>
-<div id="fblike"><div class="fb-like" data-href="http://www.snapseed.com/" data-send="false" data-layout="button_count" data-width="55" data-show-faces="false"></div></div>
-
-
-<script>
-jQuery(document).ready(function($) {
-	var shareInit = false;
-
-	$('html').click(function() {
-		if ($('#share').hasClass('open')) {
-			$('#share .close').triggerHandler('click');
-		}
-	});
-	$('#share').click(function(event) {
-		if ($('#share-buttons:visible').length == 0) {
-			$('#share').addClass('open');
-			$('#share-buttons').slideDown('fast');
-			$(this).siblings('.button').find('.close').each(function(i, el) {
-				$(el).triggerHandler('click');
-			});
-		}
-
-		if (!shareInit) {
-			shareInit = true;
-
-			// twitter
-			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-		}
-		event.stopPropagation();
-
-	});
-	$('#share .close').click(function() {
-		$('#share').removeClass('open');
-		$('#share-buttons').hide();
-		return false;
-	});
-
-	// google plus
-	(function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	})();
-
-	// facebook
-	(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=119841431399072";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-
-
-});
-</script>
-	</div>
-
-	<div id="nav"> 
-        <a id="logo" href="/home/"></a>
-
-		<script>
-jQuery(document).ready(function ($) {
-	var userAgent = navigator.userAgent.toString().toLowerCase();
-	var isSafari = false;
-	if ((userAgent.indexOf('safari') != -1) && !(userAgent.indexOf('chrome') != -1)) {
-		isSafari = true;
-	} 
-
-	$(window).resize(function(event) {
-		if ($('html').width() < 970) {
-			$('body').addClass('narrow');
-		}
-		else {
-			$('body').removeClass('narrow');
-		}
-	}).triggerHandler('resize');
-	 
-	$('#menu li').mouseenter(function () {
-		$('#cover').show();
-        $('ul', this).show();
-		$(this).addClass('hover');
- 
-	});
-	$('#menu li').mouseleave(function () {
-            $('ul', this).hide();
-			$(this).removeClass('hover');
-			$('#cover').hide();
-		}
-	);
-});
-</script>
-	<div id="wrap-gradient"></div>
-		
+<table border="0" cellspacing="0" cellpadding="0" class="__se_tbl_review">
+<tbody><tr>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="https://raw.github.com/sehotest/sehotest.github.com/master/nemo-web/cow_1200s.jpeg" width="369" height="103">
 	
-	<script>
-var tag = document.createElement('script');
-tag.src = "//www.youtube.com/iframe_api";
-var firstScriptTag = document.getElementsByTagName('script')[0];
-firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-player;
-function onYouTubeIframeAPIReady() {
-player = new YT.Player('ytplayer', {
-  height: '534',
-  width: '712',
-  videoId: 'xdw6GhhCwso'
-});
-}
-
-function changeVideo(key) {
-	player.cueVideoById(key);
-}
-</script>
-<div class="block sider">
-	<div id="video_player_wrapper">
-		<div id="ytplayer"></div>
-	</div>
-</div>
-
-<div class="block bg3 gallery videos">
-	<p>Click a thumbnail below to view the video in the player above.</p>
-<div class="threes" onclick="changeVideo('xdw6GhhCwso')"><img width="214" height="150" src="http://i.ytimg.com/vi/xdw6GhhCwso/0.jpg" /><h2> Selective Adjust</h2><p>Duration: 2:11</p></div><div class="threes" onclick="changeVideo('1EncyhDeA6A')"><img width="214" height="150" src="http://i.ytimg.com/vi/1EncyhDeA6A/0.jpg" /><h2> Black and White</h2><p>Duration: 1:57</p></div><div class="threes last" onclick="changeVideo('Q8Dgknd9yG0')"><img width="214" height="150" src="http://i.ytimg.com/vi/Q8Dgknd9yG0/0.jpg" /><h2> Creative Editing</h2><p>Duration: 1:40</p></div><div class="threes" onclick="changeVideo('i9_MWOaI9fg')"><img width="214" height="150" src="http://i.ytimg.com/vi/i9_MWOaI9fg/0.jpg" /><h2> Overview</h2><p>Duration: 2:26</p></div>	<div class="clear"></div>
-	<div id="bottom-paging" class="pagination">
-					<a class="prev disabled" href="#"></a>
-				<div class="numbers"><span class="current">1-4</span> of <span class="total">4</span></div>
-					<a class="next disabled" href="#"></a>
-		 
-	</div>
-
-</div>
+</td>
+<td width="5" style="font-size:0;">&nbsp;</td>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="" width="369" height="103">
+	
+</td>
+</tr>
+<tr>
+<td height="5" colspan="3" style="font-size:0;">&nbsp;</td>
+</tr>
+<tr>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="" width="369" height="103">
+	
+</td>
+<td width="5" style="font-size:0;">&nbsp;</td>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="" width="369" height="103">
+	
+</td>
+</tr>
+<tr>
+<td height="5" colspan="3" style="font-size:0;">&nbsp;</td>
+</tr>
+<tr>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="" width="369" height="103">
+	
+</td>
+<td width="5" style="font-size:0;">&nbsp;</td>
+<td width="369" height="103" style="font-family:dotum; vertical-align:top;" class="se2_editarea pcol2 m-tcol-c">
+<img src="" width="369" height="103">
+	
+</td>
+</tr>
+</tbody></table>
+<br>
