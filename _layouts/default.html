@@ -71,12 +71,16 @@ $('a').hover(
           {% endif %}
 
           {% if page.url == '/job.html' %}
-            <li><a class="selected" href="/job.html">Tutorial</a></li><span class="seperator">&nbsp;/</span>
+            <li><a class="selected" href="/job.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
-            <li><a href="/job.html">Tutorial</a></li><span class="seperator">&nbsp;/</span>
+            <li><a href="/job.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
-          <li><a href="https://github.com/sehotest">github</a></li>
-          <li><a href="/atom.xml"><img class="atom-img" src="/images/atom.png" /></a></li>
+          {% if page.url == '/tutorial.html' %}
+            <li><a class="selected" href="/tutorial.html">Tutorial</a></li><span class="seperator">&nbsp;/</span>
+          {% else %}
+            <li><a href="/tutorial.html">Tutorial</a></li><span class="seperator">&nbsp;/</span>
+          {% endif %}
+            <li><a href="/atom.xml"><img class="atom-img" src="/images/atom.png" /></a></li>
         </ol>
     </div>
   
