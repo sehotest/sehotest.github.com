@@ -64,16 +64,16 @@ $('a').hover(
           {% else %}
             <li><a href="/about.html">About</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
-          {% if page.url != '/about.html' and page.url != '/job.html' %}
+          {% if page.url != '/about.html' and page.url != '/gallery.html' %}
             <li><a class="selected" href="/index.html">Blog</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
             <li><a href="/index.html">Blog</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
 
-          {% if page.url == '/job.html' %}
-            <li><a class="selected" href="/job.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
+          {% if page.url == '/gallery.html' %}
+            <li><a class="selected" href="/gallery.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
-            <li><a href="/job.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
+            <li><a href="/gallery.html">Gallery</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
           {% if page.url == '/tutorial.html' %}
             <li><a class="selected" href="/tutorial.html">Tutorial</a></li><span class="seperator">&nbsp;/</span>
