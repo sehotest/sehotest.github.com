@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<album>
+<albumName>nemo</albumName>
+<albumItemCount>8</albumItemCount>
+<albumCaption></albumCaption>
+<images>
+<image>
+	<isFirstImage>
+		true
+	</isFirstImage>
+	
+	
+	
+	<isPrevImage>
+		false
+	</isPrevImage>
+	<prevImage />
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/test_04.jpg
+	</itemLargeImage>	
+	<nextImage>
+		test_03.jpg
+	</nextImage>
+	<nextThumbnail>
+		test_03.jpg
+	</nextThumbnail>
+	<prevImage>
+		
+	</prevImage>
+	<prevThumbnail>
+		
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		361
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/test_04.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		55
+	</itemThumbnailHeight>
+
+	<itemName>
+		test_04.jpg
+	</itemName>
+
+	<itemNumber>
+		12
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\test-04.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		test_04.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/test_03.jpg
+	</itemLargeImage>	
+	<nextImage>
+		test_02.jpg
+	</nextImage>
+	<nextThumbnail>
+		test_02.jpg
+	</nextThumbnail>
+	<prevImage>
+		test_04.jpg
+	</prevImage>
+	<prevThumbnail>
+		test_04.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		361
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/test_03.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		55
+	</itemThumbnailHeight>
+
+	<itemName>
+		test_03.jpg
+	</itemName>
+
+	<itemNumber>
+		11
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\test-03.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		test_03.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/test_02.jpg
+	</itemLargeImage>	
+	<nextImage>
+		test5_1.jpg
+	</nextImage>
+	<nextThumbnail>
+		test5_1.jpg
+	</nextThumbnail>
+	<prevImage>
+		test_03.jpg
+	</prevImage>
+	<prevThumbnail>
+		test_03.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		361
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/test_02.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		55
+	</itemThumbnailHeight>
+
+	<itemName>
+		test_02.jpg
+	</itemName>
+
+	<itemNumber>
+		10
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\test-02.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		test_02.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/test5_1.jpg
+	</itemLargeImage>	
+	<nextImage>
+		midnight_snac.jpg
+	</nextImage>
+	<nextThumbnail>
+		midnight_snac.jpg
+	</nextThumbnail>
+	<prevImage>
+		test_02.jpg
+	</prevImage>
+	<prevThumbnail>
+		test_02.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		361
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/test5_1.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		55
+	</itemThumbnailHeight>
+
+	<itemName>
+		test5_1.jpg
+	</itemName>
+
+	<itemNumber>
+		13
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\test5-1.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		test5_1.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/midnight_snac.jpg
+	</itemLargeImage>	
+	<nextImage>
+		idol.jpg
+	</nextImage>
+	<nextThumbnail>
+		idol.jpg
+	</nextThumbnail>
+	<prevImage>
+		test5_1.jpg
+	</prevImage>
+	<prevThumbnail>
+		test5_1.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		419
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/midnight_snac.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		63
+	</itemThumbnailHeight>
+
+	<itemName>
+		midnight_snac.jpg
+	</itemName>
+
+	<itemNumber>
+		9
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\midnight_snac.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		midnight_snac.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/idol.jpg
+	</itemLargeImage>	
+	<nextImage>
+		duckbath_white_mirror.jpg
+	</nextImage>
+	<nextThumbnail>
+		duckbath_white_mirror.jpg
+	</nextThumbnail>
+	<prevImage>
+		midnight_snac.jpg
+	</prevImage>
+	<prevThumbnail>
+		midnight_snac.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		477
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/idol.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		70
+	</itemThumbnailHeight>
+
+	<itemName>
+		idol.jpg
+	</itemName>
+
+	<itemNumber>
+		8
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\idol.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		idol.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/duckbath_white_mirror.jpg
+	</itemLargeImage>	
+	<nextImage>
+		cow_1200s.jpg
+	</nextImage>
+	<nextThumbnail>
+		cow_1200s.jpg
+	</nextThumbnail>
+	<prevImage>
+		idol.jpg
+	</prevImage>
+	<prevThumbnail>
+		idol.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		598
+	</itemWidth>
+
+	<itemHeight>
+		640
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/duckbath_white_mirror.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		85
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		duckbath_white_mirror.jpg
+	</itemName>
+
+	<itemNumber>
+		7
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\duckbath_white_mirror.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		duckbath_white_mirror.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	<isLastImage>
+		true
+	</isLastImage>
+	
+	
+	
+	<isNextImage>
+		false
+	</isNextImage>
+	
+
+
+	<firstImage>
+		images/test_04.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/cow_1200s.jpg
+	</itemLargeImage>	
+	<nextImage>
+		
+	</nextImage>
+	<nextThumbnail>
+		
+	</nextThumbnail>
+	<prevImage>
+		duckbath_white_mirror.jpg
+	</prevImage>
+	<prevThumbnail>
+		duckbath_white_mirror.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/cow_1200s.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/cow_1200s.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		534
+	</itemWidth>
+
+	<itemHeight>
+		640
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/cow_1200s.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		77
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		cow_1200s.jpg
+	</itemName>
+
+	<itemNumber>
+		6
+	</itemNumber>
+
+	<itemOriginalPath>
+		c:\users\seho\pictures\nemo\cow_1200s.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		cow_1200s.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+</images>
+</album>
